@@ -1,21 +1,21 @@
-# Translating Pro Git (2nd Edition)
+# Translating Noob Git (2nd Edition)
 
 The translation are managed in a decentralized way, with each translation teams maintaining their own project. Since each translation is a different repository, maintainers teams are self organized for each project.
 
-The Pro Git team simply pulls them in and builds them for the translation teams on the git-scm.com website.
+The Noob Git team simply pulls them in and builds them for the translation teams on the git-scm.com website.
 
 ## A Word About the Activity of Translating
 
-Pro Git is a book about a technical tool. As such it combines a double difficulty for translators:
+Noob Git is a book about a technical tool. As such it combines a double difficulty for translators:
 
  * The translation of a book, even in parts requires that the translators be aware of the whole content of book. This usually requires for each translator to have read the book and to agree with some common style of output. These rules ensure that the reader won't feel transitions in the text when switching from a part produced by one translator to a part from another one.
- * Git is a computer tool. Pro Git tries to make it affordable to not so technical-savy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Progit understandable.
+ * Git is a computer tool. Noob Git tries to make it affordable to not so technical-savy people and it's really good that the translators do not work on the core of git, because it's a user's perspective that is needed for the most part of the book. That also means that the translation may be deceiving if the translator has never used Git. Good translators must be Git users to actually keep Progit understandable.
 
 Moreover, the book was written in a formatting language called [Asciidoc](http://asciidoctor.org/). Some parts of the files making up the book are in fact Asciidoc commands. Upsetting these commands will make it impossible to assemble and to compile of the files into the PDF, epub and html output.
 
 Be sure to have read and understood the basics of [how Asciidoc formatting works](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/) before starting to change any file.
 
-Translating Pro Git is such an endeavor that if you don't want to loose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
+Translating Noob Git is such an endeavor that if you don't want to loose your energy on poor results, stress and deceived expectations, you have to set up, enforce and abide by rules stemming from these basic advices.
 
 ## Translating the Book to Another Language
 
