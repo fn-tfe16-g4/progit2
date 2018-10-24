@@ -1,4 +1,4 @@
-# Contributing to Pro Git (2nd Edition)
+# Contributing to Noob Git (2nd Edition)
 
 ## Licensing
 
@@ -41,4 +41,4 @@ Give it a name that matches the destination PNG filename, relative from the root
 
 ## Translations
 
-If you would like to contribute to translating Pro Git into your language, take a look at [TRANSLATING.md](TRANSLATING.md).
+If you would like to contribute to translating Noob Git into your language, take a look at [TRANSLATING.md](TRANSLATING.md).
